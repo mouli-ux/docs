@@ -1,3 +1,4 @@
+![Do You Wanna Go Out With Me_](https://github.com/github/docs/assets/153907868/5e026cdd-96ac-4c7a-8aea-65d486c88d5a)
 ---
 title: Understanding the search syntax
 intro: 'When searching {% data variables.product.product_name %}, you can construct queries that match specific numbers and words.'
